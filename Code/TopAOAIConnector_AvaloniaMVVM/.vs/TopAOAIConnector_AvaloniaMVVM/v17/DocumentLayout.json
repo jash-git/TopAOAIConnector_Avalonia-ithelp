@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\",
+  "WorkspaceRootPath": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\github\\topaoaiconnector_avalonia-ithelp\\code\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\github\\topaoaiconnector_avalonia-ithelp\\code\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\github\\topaoaiconnector_avalonia-ithelp\\code\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\viewmodels\\chatpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\viewmodels\\chatpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\github\\topaoaiconnector_avalonia-ithelp\\code\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\viewmodels\\settingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\viewmodels\\settingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\github\\topaoaiconnector_avalonia-ithelp\\code\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|c:\\users\\devel\\desktop\\github\\topaoaiconnector_avalonia-ithelp\\code\\topaoaiconnector_avaloniamvvm\\topaoaiconnector_avaloniamvvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31067D4E-E9E9-47C5-8E11-B0F2C36C127D}|TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj|solutionrelative:topaoaiconnector_avaloniamvvm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +34,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 3376,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Program.cs",
-              "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\Program.cs",
-              "ToolTip": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Program.cs",
-              "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SettingPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\SettingPageViewModel.cs",
+              "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\ViewModels\\SettingPageViewModel.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\SettingPageViewModel.cs",
+              "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\ViewModels\\SettingPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:56:24.842Z",
+              "WhenOpened": "2024-10-22T08:20:29.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TopAOAIConnector_AvaloniaMVVM",
-              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
+              "Title": "ChatPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\ChatPageViewModel.cs",
+              "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\ViewModels\\ChatPageViewModel.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\ChatPageViewModel.cs",
+              "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\ViewModels\\ChatPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:20:01.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Program.cs",
+              "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\Program.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Program.cs",
+              "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:56:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TopAOAIConnector_AvaloniaMVVM.csproj",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
               "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
-              "ToolTip": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
               "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -58,9 +91,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Views\\MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\Views\\MainWindow.axaml",
               "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-22T07:28:46.984Z",
@@ -68,15 +101,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "TopAOAIConnector_AvaloniaMVVM\\ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "TopAOAIConnector_AvaloniaMVVM\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:28:44.337Z"
+              "WhenOpened": "2024-10-22T07:28:44.337Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -84,6 +118,10 @@
           "DockedWidth": 440,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

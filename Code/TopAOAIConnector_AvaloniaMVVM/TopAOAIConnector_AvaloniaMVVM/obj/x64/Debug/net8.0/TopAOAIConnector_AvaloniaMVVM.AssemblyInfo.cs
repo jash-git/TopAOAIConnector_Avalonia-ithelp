@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopAOAIConnector_AvaloniaMVVM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b26a66e2fb817e56c12021353b57a0f891e494f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopAOAIConnector_AvaloniaMVVM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopAOAIConnector_AvaloniaMVVM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,19 +15,25 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-	<SplitView CompactPaneLength="50" DisplayMode="CompactInline" IsPaneOpen="True" OpenPaneLength="300">
+	<SplitView CompactPaneLength="50" DisplayMode="CompactInline" IsPaneOpen="{Binding IsPaneOpen}" OpenPaneLength="300">
 		<SplitView.Pane>
 			<StackPanel Margin="6" Spacing="6">
-				<Button>-</Button>
-				<ListBox>
-					<ListBoxItem>Avalonia</ListBoxItem>
-					<ListBoxItem>DotNET</ListBoxItem>
-					<ListBoxItem>CSharp</ListBoxItem>
+				<Button Command="{Binding MenuButtonCommand}">-</Button>
+				<ListBox ItemsSource="{Binding Items}" SelectedItem="{Binding SelectedListItem}">
+					<ListBox.ItemTemplate>
+						<DataTemplate DataType="{x:Type vm:ListItemTemplate}">
+							<StackPanel Orientation="Horizontal" Spacing="14">
+
+							</StackPanel>
+						</DataTemplate>
+					</ListBox.ItemTemplate>
 				</ListBox>
 			</StackPanel>
 		</SplitView.Pane>
 		<SplitView.Content>
-			<TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Greeting}" />
+			<Border CornerRadius="10" Background="#2d2d2d">
+	
+			</Border>
 		</SplitView.Content>
 	</SplitView>
 

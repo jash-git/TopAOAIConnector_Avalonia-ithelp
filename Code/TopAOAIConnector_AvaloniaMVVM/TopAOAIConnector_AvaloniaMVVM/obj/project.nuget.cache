@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EHrDb7U0Mw=",
+  "dgSpecHash": "xzWZlGn+TeU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\devel\\Desktop\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
+  "projectFilePath": "C:\\Users\\devel\\Desktop\\GITHUB\\TopAOAIConnector_Avalonia-ithelp\\Code\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM\\TopAOAIConnector_AvaloniaMVVM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\devel\\.nuget\\packages\\avalonia\\11.1.4\\avalonia.11.1.4.nupkg.sha512",
     "C:\\Users\\devel\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
